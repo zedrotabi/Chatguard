@@ -1,0 +1,15 @@
+{
+  "name": "bg-discord-chat-guard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BG",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "quick.db": "^7.1.3"
+  }
+}
